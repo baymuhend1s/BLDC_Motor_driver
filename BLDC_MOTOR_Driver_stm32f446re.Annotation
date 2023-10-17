@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=BridgeFilter&CapBank.SchDoc
+UniqueIDPath0=\REGIAVDQ
+SheetNumber0=1
+DocumentName1=DC-DC_Buck_Converter+12Vto+3.3V.SchDoc
+UniqueIDPath1=\ZGVEUDVY
+SheetNumber1=2
+DocumentName2=Main.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+DocumentName3=Power&TVS_Protection.SchDoc
+UniqueIDPath3=\LNORCPIE
+SheetNumber3=4
+DocumentName4=ReversePolarityProtection.SchDoc
+UniqueIDPath4=\YKAAHRFA
+SheetNumber4=5
+
+
