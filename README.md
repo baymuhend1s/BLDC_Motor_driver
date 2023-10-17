@@ -6,3 +6,5 @@ Her fazın akımı, batarya gerilimi ve kart gerilimi, ESD ve ters gerilim korum
 aşırı akım ve kısa devre akım koruması, Adc pinleri için bariyer koruması, 
 Mcu ve Sürücü için buck dönüştürücüsü, Motor için filtrelenmiş 12V çıkış gibi 
 Temel devre üzerinde çalışma yapılmıştır.
+![image](https://github.com/baymuhend1s/BLDC_Motor_driver/assets/65263423/65533d32-9d83-40fb-b593-8b1582bc4d05)
+
